@@ -1,0 +1,15 @@
+teste 1:
+[peca(circulo,amarelo),peca(quadrado,vermelho),peca(triangulo,vermelho),peca(triangulo,amarelo),peca(circulo,vermelho),peca(circulo,azul),peca(quadrado,amarelo),peca(quadrado,azul),peca(triangulo,azul)]
+
+teste 2:
+[peca(circulo,amarelo),peca(quadrado,vermelho),peca(triangulo,vermelho),peca(triangulo,amarelo),peca(circulo,vermelho),peca(circulo,azul),peca(quadrado,amarelo),peca(quadrado,azul),peca(triangulo,azul)]
+
+teste 3:
+[peca(circulo,amarelo),peca(quadrado,vermelho),peca(triangulo,vermelho),peca(triangulo,amarelo),peca(circulo,vermelho),peca(circulo,azul),peca(quadrado,amarelo),peca(quadrado,azul),peca(triangulo,azul)]
+
+teste 4:
+[[_G2671,_G2674,_G2677,_G2680,_G2683,_G2686,peca(quadrado,azul),_G2695,_G2698],[_G2638,_G2641,_G2644,_G2647,_G2650,_G2653,_G2656,peca(quadrado,azul),_G2665]]
+
+teste 5:
+[[peca(circulo,vermelho),_G2834,_G2837,_G2840,_G2843,_G2846,_G2849,_G2852,_G2855],[_G2795,peca(circulo,vermelho),_G2804,_G2807,_G2810,_G2813,_G2816,_G2819,_G2822],[_G2762,_G2765,_G2768,_G2771,peca(circulo,vermelho),_G2780,_G2783,_G2786,_G2789],[_G2729,_G2732,_G2735,peca(circulo,vermelho),_G2744,_G2747,_G2750,_G2753,_G2756]]
+
